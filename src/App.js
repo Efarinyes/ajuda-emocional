@@ -83,9 +83,7 @@ function App() {
         </div>
         <code> Exemple de pantalla principal </code>
       </div>
-      
     </div>
-
   );
 }
 
